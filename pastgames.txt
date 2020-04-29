@@ -1,0 +1,383 @@
+2019-08-25 16:25:52.258475 
+WHITE : e2 e4 
+BLACK : d7 d5 
+ 
+2019-08-25 16:26:48.220676 
+WHITE : e2 e4 
+BLACK : d7 d5 
+ 
+2019-08-25 16:33:14.495769 
+ 
+2019-08-25 16:36:46.545898 
+WHITE : e2 e4 
+BLACK : d7 d5 
+ 
+2019-08-25 16:39:23.109853 
+WHITE : e2 e4 
+ 
+2019-08-25 16:44:05.221989 
+WHITE : e2 e4 
+BLACK : e7 e5 
+WHITE : f1 c4 
+BLACK : d8 g5 
+WHITE : e1 e2 
+ 
+2019-08-28 18:45:54.422499 
+WHITE : e2 e4 
+BLACK : e7 e54 
+ 
+2019-08-28 18:49:29.879823 
+WHITE : g1 f3 
+ 
+2020-04-14 13:50:05.524226 
+WHITE : e2 e4 
+ 
+2020-04-14 13:58:52.403508 
+WHITE : e2 e4 
+ 
+2020-04-14 15:30:24.773832 
+ 
+2020-04-14 15:35:26.461500 
+WHITE : e2 e4 
+BLACK : d7 d5 
+WHITE : e4 d5 
+ 
+2020-04-14 18:48:16.603652 
+ 
+2020-04-14 19:54:59.125546 
+ 
+2020-04-14 19:55:34.305032 
+ 
+2020-04-14 19:56:17.601022 
+WHITE : 4,6 e2 e4 
+BLACK : 5,1 f7 f6 
+WHITE : 3,6 d2 d3 
+ 
+2020-04-14 20:00:52.461429 
+WHITE : 4,6 e2 e4 
+BLACK : 4,1 e7 e5 
+WHITE : 3,6 d2 d3 
+BLACK : 5,1 f7 f6 
+WHITE : 6,6 g2 g4 
+BLACK : 5,2 f6 f5 
+WHITE : 4,4 e4 f5 
+BLACK : 4,3 e5 e4 
+WHITE : 6,7 g1 f3 
+BLACK : 4,0 e8 e7 
+WHITE : 3,7 d1 e2 
+BLACK : 3,1 d7 d6 
+WHITE : 2,6 c2 c4 
+BLACK : 2,1 c7 c5 
+WHITE : 4,7 e1 d2 
+BLACK : 1,1 b7 b6 
+WHITE : 1,6 b2 b3 
+BLACK : 2,0 c8 a6 
+WHITE : 2,7 c1 b2 
+BLACK : 6,1 g7 g6 
+WHITE : 1,6 b2 h8 
+BLACK : 6,0 g8 f6 
+WHITE : 7,0 h8 f6 
+BLACK : 4,1 e7 f7 
+WHITE : 5,2 f6 e5 
+BLACK : 3,2 d6 e5 
+ 
+2020-04-14 20:03:32.937789 
+WHITE : 4,6 e2 e4 
+ 
+2020-04-14 20:04:01.308667 
+WHITE : 4,6 e2 e4 
+BLACK : 5,1 f7 f6 
+ 
+2020-04-14 20:04:41.965875 
+ 
+2020-04-15 10:02:10.491921 
+WHITE : 4,6 e2 e4 
+BLACK : 5,1 f7 f5 
+WHITE : 6,7 g1 e2 
+BLACK : 3,1 d7 d6 
+WHITE : 3,6 d2 d3 
+BLACK : 2,0 c8 d7 
+ 
+2020-04-15 10:04:20.662816 
+WHITE : 2,6 c2 c4 
+BLACK : 4,1 e7 e6 
+WHITE : 3,6 d2 d4 
+ 
+2020-04-15 10:05:42.297518 
+WHITE : 4,6 e2 e4 
+ 
+2020-04-15 10:07:19.835794 
+WHITE : 4,6 e2 e4 
+ 
+2020-04-15 10:08:31.004547 
+WHITE : 4,6 e2 e4 
+ 
+2020-04-15 10:17:24.671718 
+WHITE : 4,6 e2 e4 
+ 
+2020-04-15 10:19:50.776761 
+WHITE : 4,6 e2 e4 
+ 
+2020-04-15 10:20:32.255195 
+WHITE : 4,6 e2 e4 
+BLACK : 4,1 e7 e6 
+WHITE : 6,7 g1 f3 
+BLACK : 1,0 b8 c6 
+WHITE : 1,6 b2 b3 
+BLACK : 3,1 d7 d5 
+WHITE : 4,4 e4 d5 
+BLACK : 2,2 c6 e5 
+WHITE : 3,6 d2 d4 
+BLACK : 4,3 e5 f3 
+WHITE : 6,6 g2 f3 
+BLACK : 2,0 c8 d7 
+WHITE : 5,7 f1 b5 
+BLACK : 3,1 d7 b5 
+ 
+2020-04-15 10:21:22.472461 
+WHITE : 4,6 e2 e4 
+BLACK : 4,1 e7 e5 
+ 
+2020-04-15 10:21:35.317254 
+WHITE : 4,6 e2 e4 
+BLACK : 4,1 e7 e5 
+WHITE : 6,7 g1 f3 
+ 
+2020-04-15 10:22:41.220831 
+WHITE : 4,6 e2 e4 
+BLACK : 4,1 e7 e5 
+ 
+2020-04-15 10:23:22.031372 
+WHITE : 4,6 e2 e4 
+BLACK : 4,1 e7 e5 
+WHITE : 6,7 g1 f3 
+ 
+2020-04-15 10:23:59.621022 
+BLACK : 4,1 e7 e6 
+ 
+2020-04-15 10:24:18.909046 
+WHITE : 4,6 e2 e4 
+BLACK : 4,1 e7 e5 
+ 
+2020-04-15 10:25:56.691530 
+WHITE : 4,6 e2 e4 
+BLACK : 4,1 e7 e5 
+WHITE : 6,7 g1 f3 
+BLACK : 2,1 c7 c6 
+WHITE : 3,6 d2 d3 
+ 
+2020-04-15 10:27:11.289720 
+WHITE : 4,6 e2 e4 
+BLACK : 4,1 e7 e5 
+WHITE : 6,7 g1 f3 
+BLACK : 3,1 d7 d6 
+ 
+2020-04-15 10:28:04.164886 
+WHITE : 4,6 e2 e4 
+BLACK : 4,1 e7 e5 
+WHITE : 6,7 g1 f3 
+BLACK : 1,0 b8 c6 
+ 
+2020-04-15 10:42:18.446328 
+WHITE : 4,6 e2 e4 
+BLACK : 4,1 e7 e5 
+WHITE : 6,7 g1 f3 
+ 
+2020-04-15 11:03:33.607893 
+WHITE : e2 e4 
+BLACK : e7 e5 
+WHITE : g1 f3 
+BLACK : c7 c6 
+WHITE : c2 c4 
+BLACK : b7 b5 
+WHITE : c4 b5 
+BLACK : c6 b5 
+WHITE : d1 a4 
+BLACK : b5 a4 
+WHITE : b2 b3 
+BLACK : a4 b3 
+WHITE : c1 a3 
+BLACK : b3 b2 
+WHITE : a3 b2 
+BLACK : f8 b4 
+ 
+2020-04-15 11:07:48.776041 
+WHITE : e2 e4 
+BLACK : e7 e5 
+WHITE : g1 f3 
+BLACK : b8 c6 
+WHITE : c2 c3 
+ 
+2020-04-15 14:24:49.200400 
+WHITE : e2 e4 
+BLACK : e7 e5 
+WHITE : g1 f3 
+BLACK : b8 c6 
+ 
+2020-04-16 11:11:14.872250 
+ 
+2020-04-16 11:23:33.800671 
+ 
+2020-04-16 11:24:58.167732 
+ 
+2020-04-16 11:26:38.530640 
+WHITE : g1 f3 
+BLACK : e7 e5 
+WHITE : e2 e3 
+BLACK : f7 f5 
+WHITE : f3 e5 
+BLACK : d8 e7 
+WHITE : e5 c6 
+BLACK : e7 c5 
+WHITE : c6 e7 
+BLACK : g8 e7 
+WHITE : f1 c4 
+BLACK : e7 d5 
+WHITE : c4 d5 
+BLACK : f5 f4 
+WHITE : e3 f4 
+BLACK : c5 d4 
+WHITE : d5 c4 
+BLACK : d4 c4 
+WHITE : d2 d3 
+BLACK : c4 c3 
+WHITE : b2 b3 
+BLACK : c3 b2 
+WHITE : c1 d2 
+BLACK : b2 e5 
+WHITE : d3 d4 
+BLACK : e5 f4 
+WHITE : d4 d5 
+BLACK : f4 d6 
+WHITE : f2 f3 
+BLACK : g7 g6 
+ 
+2020-04-16 11:29:47.750771 
+WHITE : f2 f4 
+ 
+2020-04-16 11:30:13.757129 
+WHITE : e2 e4 
+ 
+2020-04-16 11:31:36.141483 
+WHITE : d2 d4 
+ 
+2020-04-16 11:33:01.033555 
+WHITE : g1 f3 
+BLACK : g7 g6 
+WHITE : f3 g5 
+BLACK : d7 d6 
+WHITE : g5 e6 
+BLACK : h7 h6 
+WHITE : e6 g7 
+BLACK : c7 c6 
+WHITE : g7 e8 
+BLACK : f7 f6 
+ 
+2020-04-16 12:39:56.746514 
+ 
+2020-04-16 12:41:19.904331 
+ 
+2020-04-16 12:43:49.644542 
+WHITE : e2 e4 
+BLACK : h7 h5 
+WHITE : g1 f3 
+ 
+2020-04-16 12:50:33.286257 
+WHITE : e2 e4 
+BLACK : f7 f6 
+WHITE : d1 f3 
+ 
+2020-04-16 12:51:34.640258 
+WHITE : e2 e4 
+BLACK : d7 d6 
+ 
+2020-04-16 12:52:25.892092 
+WHITE : e2 e4 
+BLACK : b7 b6 
+ 
+2020-04-16 12:53:03.226086 
+WHITE : e2 e4 
+BLACK : e7 e5 
+WHITE : d1 e2 
+BLACK : f8 e7 
+WHITE : f2 f3 
+BLACK : f7 f6 
+ 
+2020-04-16 12:54:44.007295 
+WHITE : e2 e4 
+BLACK : d7 d6 
+WHITE : f1 c4 
+BLACK : e7 e5 
+WHITE : b1 a3 
+BLACK : b8 d7 
+ 
+2020-04-16 12:57:20.916976 
+WHITE : d2 d4 
+BLACK : e7 e5 
+WHITE : d4 e5 
+BLACK : d7 d5 
+WHITE : f2 f4 
+BLACK : h7 h6 
+WHITE : d1 d5 
+BLACK : d8 d5 
+WHITE : c1 e3 
+BLACK : c7 c6 
+WHITE : e3 c5 
+BLACK : d5 c5 
+WHITE : g2 g3 
+BLACK : f7 f6 
+WHITE : c2 c3 
+BLACK : g7 g5 
+WHITE : f4 g5 
+BLACK : f6 g5 
+WHITE : e5 e6 
+BLACK : c5 e7 
+WHITE : g1 f3 
+BLACK : e7 e6 
+WHITE : f3 d4 
+BLACK : e6 e5 
+WHITE : b1 d2 
+BLACK : e5 d4 
+WHITE : c3 d4 
+BLACK : c6 c5 
+WHITE : d4 c5 
+BLACK : b7 b6 
+WHITE : c5 b6 
+BLACK : a7 b6 
+WHITE : a2 a4 
+BLACK : a8 a4 
+WHITE : d2 b3 
+BLACK : b6 b5 
+WHITE : b3 c5 
+BLACK : b5 b4 
+WHITE : c5 a4 
+ 
+2020-04-20 09:01:25.280603 
+WHITE : e2 e4 
+BLACK : e7 e5 
+WHITE : g1 f3 
+BLACK : b8 c6 
+WHITE : d2 d3 
+BLACK : d7 d6 
+WHITE : g2 g4 
+BLACK : g7 g5 
+WHITE : f1 h3 
+BLACK : b7 b6 
+ 
+2020-04-20 09:02:15.722129 
+WHITE : e2 e4 
+BLACK : e7 e5 
+WHITE : g1 f3 
+BLACK : b8 c6 
+WHITE : d2 d3 
+BLACK : f7 f6 
+WHITE : g2 g3 
+BLACK : d7 d5 
+WHITE : e4 d5 
+BLACK : c6 a5 
+WHITE : c1 e3 
+BLACK : f8 c5 
+WHITE : f1 g2 
+BLACK : g8 e7 
+WHITE : d5 d6 
+BLACK : c7 d6 

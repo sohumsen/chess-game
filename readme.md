@@ -1,1 +1,1 @@
-My chess game
+My chess game made in python 
